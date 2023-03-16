@@ -1,0 +1,15 @@
+# ninja log v5
+3	1086	1678969060965481769	CMakeFiles/Basic_Calculator.dir/main.cpp.o	ef776793ec963ff6
+4	705	1678969193562117155	CMakeFiles/Basic_Calculator.dir/input/input.cpp.o	1c06375f4c93dd0b
+705	772	1678969193633871183	Basic_Calculator	d4193fa22963c3d8
+4	704	1678969193562258952	CMakeFiles/Basic_Calculator.dir/menu/menu.cpp.o	577c49e2c4ce6499
+4	1089	1678969715960766390	CMakeFiles/Basic_Calculator.dir/operations/operations.cpp.o	fdef87345d25cbe3
+4	1114	1678969715987574702	CMakeFiles/Basic_Calculator.dir/input/input.cpp.o	1c06375f4c93dd0b
+3	1114	1678969715987671339	CMakeFiles/Basic_Calculator.dir/menu/menu.cpp.o	577c49e2c4ce6499
+1114	1207	1678969716086697917	Basic_Calculator	d0948a4a27fb0d2
+3	951	1678971623452386108	CMakeFiles/Basic_Calculator.dir/operations/operations.cpp.o	fdef87345d25cbe3
+2	951	1678971623452389173	CMakeFiles/Basic_Calculator.dir/main.cpp.o	ef776793ec963ff6
+3	979	1678971623483272504	CMakeFiles/Basic_Calculator.dir/menu/menu.cpp.o	577c49e2c4ce6499
+979	1063	1678971623569979393	Basic_Calculator	d0948a4a27fb0d2
+2	623	1678971681492512995	CMakeFiles/Basic_Calculator.dir/menu/menu.cpp.o	577c49e2c4ce6499
+623	684	1678971681555856567	Basic_Calculator	d0948a4a27fb0d2

@@ -1,0 +1,3 @@
+/Users/emin/Desktop/cpp/Basic Calculator/cmake-build-debug/CMakeFiles/Basic_Calculator.dir
+/Users/emin/Desktop/cpp/Basic Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emin/Desktop/cpp/Basic Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
